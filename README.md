@@ -1,8 +1,3 @@
-<img src="./readme-intro.gif" alt="👋 Hi there! I'm Andre Vidal" title="👋 Hi there! I'm Andre Vidal"/>
-
-&nbsp;
-&nbsp;
-
 ### About Me
 
 A Professional Software Engineer and Team Lead with experience developing applications for a variety of clients. Skilled in Frontend web development, full-stack development and communication, with an aptitude for problem solving.
